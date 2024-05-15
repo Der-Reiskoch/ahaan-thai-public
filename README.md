@@ -1,1 +1,1 @@
-# The Generated Blog Content of Ahaan-Thai
+# The generated blog content of ahaan-thai.de

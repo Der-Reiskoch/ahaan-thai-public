@@ -1,3 +1,7 @@
 # These are supported funding model platforms
 
-custom: ['https://steadyhq.com/de/der-reiskoch/about','https://www.paypal.com/donate/?hosted_button_id=J4B3UGYM7V7W6']
+custom:
+    [
+        'https://kurz.der-reiskoch.de/steadyMe',
+        'https://kurz.der-reiskoch.de/paypalMe',
+    ]
