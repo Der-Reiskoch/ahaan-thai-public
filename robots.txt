@@ -9,5 +9,6 @@ Disallow: /__l__/
 Disallow: /__cl__/
 Disallow: /suchen/
 Disallow: /regions/
+Disallow: /quellen/
 
 Sitemap: https://www.der-reiskoch.de/sitemap.xml
