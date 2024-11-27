@@ -1,14 +1,15 @@
 User-agent: *
 
-Disallow: /nicht-gefunden/
-Disallow: /offline/
-Disallow: /feed/
-Disallow: /info/datenschutz/
-Disallow: /info/impressum/
-Disallow: /__l__/
-Disallow: /__cl__/
-Disallow: /suchen/
-Disallow: /regions/
-Disallow: /quellen/
 
-Sitemap: https://www.der-reiskoch.de/sitemap.xml
+Disallow: /info/impressum/
+Disallow: /info/datenschutz/
+Disallow: /suchen/
+Disallow: /suchen/zufall/
+Disallow: /nicht-verbunden/
+Disallow: /nicht-gefunden/
+Disallow: /__cl__/
+Disallow: /__l__/
+Disallow: /system/
+Disallow: /link/
+
+Sitemap: https://www.ahaan-thai.de/sitemap.xml
