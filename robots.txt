@@ -5,6 +5,7 @@ Disallow: /info/impressum/
 Disallow: /info/datenschutz/
 Disallow: /suchen/
 Disallow: /suchen/zufall/
+Disallow: /bio-link/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
 Disallow: /__cl__/
