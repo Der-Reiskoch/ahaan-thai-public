@@ -8,7 +8,6 @@ Disallow: /suchen/zufall/
 Disallow: /bio-link/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
-Disallow: /quellen/test/
 Disallow: /__cl__/
 Disallow: /__l__/
 Disallow: /system/
