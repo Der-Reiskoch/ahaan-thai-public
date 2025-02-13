@@ -1,6 +1,5 @@
 User-agent: *
 
-
 Disallow: /info/impressum/
 Disallow: /info/datenschutz/
 Disallow: /suchen/
