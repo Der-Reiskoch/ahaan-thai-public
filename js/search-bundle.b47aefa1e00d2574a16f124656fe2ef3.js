@@ -7,7 +7,7 @@
     <a href="${e}">${t}</a>
     </h2>
     <div class="summary-meta"><span class="thai-name-in-summary">${s}</span></div>
-    </header>`,G=Qe;var Ye=(t,e=!1)=>{let s="";return t&&(s=`<div class="centered-flex-col ${e?"search__no-results":""}">${t}</div>`),s},N=Ye;var Ge=t=>{let e="";return t&&(e=`<div class="summary-excerpt">${t}</div>`),e},V=Ge;var Ve=t=>{let e="";if(t){let s=t.split(" "),r="";s.forEach(n=>{let a=`/tags/${Xe(n)}/`;r+=`
+    </header>`,G=Qe;var Ye=(t,e=!1)=>{let s="";return t&&(s=`<div class="centered-flex-col centered-text ${e?"search__no-results":""}">${t}</div>`),s},N=Ye;var Ge=t=>{let e="";return t&&(e=`<div class="summary-excerpt">${t}</div>`),e},V=Ge;var Ve=t=>{let e="";if(t){let s=t.split(" "),r="";s.forEach(n=>{let a=`/tags/${Xe(n)}/`;r+=`
             <khao-chip href="${a}" rel="tag"><span>${Ze(n)}</span></khao-chip>
              `}),e=`<div class="summary-tags"><div class="tag-list">
                     ${r}
