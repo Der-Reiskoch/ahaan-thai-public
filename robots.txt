@@ -7,8 +7,6 @@ Disallow: /suchen/zufall/
 Disallow: /bio-link/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
-Disallow: /__cl__/
-Disallow: /__l__/
 Disallow: /system/
 Disallow: /link/
 Disallow: /index.xml
