@@ -8,6 +8,7 @@ Disallow: /bio-link/
 Disallow: /api/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
+Disallow: /api/thai-cook-book-library.json
 Disallow: /api/thai-food-dictionary.json
 Disallow: /system/
 Disallow: /link/
