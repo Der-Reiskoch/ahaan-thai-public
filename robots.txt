@@ -1,11 +1,11 @@
 User-agent: *
 
+Disallow: /api/
 Disallow: /info/impressum/
 Disallow: /info/datenschutz/
 Disallow: /suchen/
 Disallow: /suchen/zufall/
 Disallow: /bio-link/
-Disallow: /api/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
 Disallow: /api/thai-cook-book-info.json
